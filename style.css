@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <section class="showcase">
+        <header>
+            <h1 class="logo">Ver1.0.0</h1>
+            <div class="toggle"></div>
+        </header>
+
+    <video src="./image/サイバーチック .mp4" autoplay loop muted></video>
+    <div class="overlay"></div>
+
+    <div class="text">
+        <h2>SCIENCS IS ELEGANT</h2>
+        <h3>Hello Word</h3>
+        <p>
+        Lorem ipsum dolor sit amet consectetur 
+        adipisicing elit. Quaerat esse rerum voluptatibus 
+        quis itaque obcaecati.
+        </p>
+        <a href="portfolio.html">My page</a>
+    </div>
+    
+    <ul class="social">
+        <li class="twitter">
+            <a href="https://twitter.com/Blue_ArchiveJP"><img src="./image/twitter.png" alt="" /></a>
+        </li>
+        
+        <li class="instagram">
+            <a href="https://www.instagram.com/willsmith/"><img src="./image/instagram.png" alt="" /></a>
+        </li>
+        
+
+        <li class="facebook">
+            <a href="https://www.facebook.com/ladygaga/?locale=ja_JP"><img src="./image/facebook.png" alt="" /></a>
+        </li>
+
+    </ul>
+    </section>
+
+    <div class="menu">
+     <ul>
+        <li><a href="">井上</a></li>
+        <li><a href="">岩堀</a></li>
+        <li><a href="">岡田</a></li>
+        <li><a href="">近藤</a></li>
+     </ul>
+    </div>
+</body>
+</html>
